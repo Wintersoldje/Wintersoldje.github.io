@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "정제윈(Jeong Je-win)"
-  avatar           : "KakaoTalk_Photo_2021-01-12-14-45-50.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is Blog for Study & Work & Hobby"
+  avatar           : "/KakaoTalk_Photo_2021-01-12-14-45-50.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
   location         : "Seoul, Korea"
   email            : "wjdwpdnls@gmail.com"
   links:
