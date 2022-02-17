@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "정제윈(Jeong Je-win)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "KakaoTalk_Photo_2021-01-12-14-45-50.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is Blog for Study & Work & Hobby"
   location         : "Seoul, Korea"
   email            : "wjdwpdnls@gmail.com"
