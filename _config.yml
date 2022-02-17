@@ -10,15 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jewin's Blog"
-title_separator          : "Jewin's Blog"
-subtitle                 : "Jewin's Blog" # site tagline that appears below site title in masthead
+# title                    : "Jewin's Blog"
+# title_separator          : "Jewin's Blog"
+# subtitle                 : "Jewin's Blog" # site tagline that appears below site title in masthead
 name                     : "정제윈(Jeong Je-win)"
 description              : "Slow and Steady"
 url                      : "https://wintersoldje.github.io"
