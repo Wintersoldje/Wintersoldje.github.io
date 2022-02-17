@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Jewin's Blog"
 title_separator          : "내 일상과 내 인생으 기록"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "내 일상과 내 인생으 기록"# site tagline that appears below site title in masthead
 name                     : "정제윈(Jeong Je-win)"
 description              : "An amazing website."
 url                      : "https://Wintersoldje.github.io"
